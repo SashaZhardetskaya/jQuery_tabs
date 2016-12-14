@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html, body {
+	font-family: Tahoma, sans-serif;
+}
+
+.wrap {
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+.tabs {
+	width: 500px;
+	height: 400px;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.tabs-h {
+	display: inline-block;
+	padding: 5px 10px;
+	background: gold;
+}
+
+.tabs-b {
+	width: 490px;
+	height: 300px;
+	display: none;
+}
+
+.red {
+	background: red;
+}
+
+.blue {
+	background: blue;
+}
+
+.yellow {
+	background: yellow;
+}
+
+
+
+
+
+
+
